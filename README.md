@@ -1,4 +1,4 @@
-Açıklama: Middlewareler sayesinde isteğiniz gitmeden önce bazı ayarlar yapabilirsini<
+Açıklama: Middlewareler sayesinde isteğiniz gitmeden önce bazı ayarlar yapabilirsiniz
 
 ![user-middleware](/images/user-middleware.png)
 
